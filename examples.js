@@ -1,5 +1,5 @@
 // Synchronous system example
-/* console.log(" I");
+console.log(" I");
 console.log(" eat");
 
 setTimeout(() => {
@@ -7,7 +7,7 @@ setTimeout(() => {
 }, 1000); // async function
 
 console.log(" with");
-console.log(" a spoon"); */
+console.log(" a spoon");
 
 // Callbacks
 function one(call_two) {
